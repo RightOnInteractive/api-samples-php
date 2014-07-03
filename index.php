@@ -1,3 +1,6 @@
+<!--This sample source code is provided as-is. Use this at your own discretion.
+	We reserve the right to update or remove this source code at any time.-->
+<!--Author: Devin Edmundowicz-->
 <html>
  <head>
   <title>API Authentication</title>
